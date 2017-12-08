@@ -1,0 +1,24 @@
+style.css
+html {
+	font-size: 100px
+}
+	
+  /* Baseline Styles */
+
+p {
+  font-size: 14px;
+}
+
+p.tile { 
+  background: blue;
+  color: white;
+  font-size: 14px;
+  padding: 10px 20px;
+}
+
+/* Modifier Classes */
+ 
+p.tile.aliceblue-fill {
+  background: aliceblue;
+  color: blue;
+}
