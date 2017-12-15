@@ -1,26 +1,2 @@
-body {
-  background-color: #a3d5d3;
-}
-html {
-	font-size: 60px
-}
-	
-  /* Baseline Styles */
 
-p {
-  font-size: 14px;
-}
-
-p.tile { 
-  background: blue;
-  color: white;
-  font-size: 14px;
-  padding: 10px 20px;
-}
-
-/* Modifier Classes */
- 
-p.tile.aliceblue-fill {
-  background: aliceblue;
-  color: blue;
 }
