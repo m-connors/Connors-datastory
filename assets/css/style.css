@@ -7,7 +7,7 @@ body {
 header {
 grid-area: header;
 
-  background-color: aliceblue;
+  background-color: #E1F5FE;
   border: 2px solid blue;
   padding: 15px;
   }
