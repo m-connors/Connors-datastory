@@ -22,3 +22,12 @@ container {
   padding: 15px;
   margin: 15px;
 }
+div#toc-list,div#toc-img {
+  padding: 15px;
+  border: 2px
+}
+div#toc-list,div#toc-img {
+  /*computed based on font-size*/
+  /*good for default large screens */
+  height: 16em;
+}
