@@ -41,6 +41,10 @@ div#toc-list,div#toc-img {
   /*good for default large screens */
   height: 10em;
 }
+grid-template-areas:   
+    "header header"
+    "article sidebar"
+    "footer footer";
 #grid-container {
   display: grid;
   grid-template-rows: 150px 1fr 150px;
