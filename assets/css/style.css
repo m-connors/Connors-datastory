@@ -1,2 +1,11 @@
+article {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 10px;
+}
 
+section {
+  background: blue;
+  height: 200px;
+  margin-top: 15px;
 }
