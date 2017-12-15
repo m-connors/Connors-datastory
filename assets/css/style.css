@@ -10,9 +10,12 @@ body {
 header {
 grid-area: header;
 
-  background-color: #E1F5FE;
+ #grad {
+    background: linear-gradient(#BBDEFB,#E1F5FE);
+}
   border: 2px solid blue;
   padding: 15px;
+  
   }
 article {
   display: grid;
