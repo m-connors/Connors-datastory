@@ -4,6 +4,13 @@ h1 {
 body {
   background-color: #BBDEFB;
 }
+header {
+grid-area: header;
+
+  background-color: aliceblue;
+  border: 2px solid blue;
+  padding: 15px;
+  }
 article {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
