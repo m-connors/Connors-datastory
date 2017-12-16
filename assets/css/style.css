@@ -7,12 +7,6 @@ h5 {
 body {
   background-color: #BBDEFB;
 }
-header {
-grid-area: header
-  border: 2px solid blue;
-  padding: 15px;
-  background: #E1F5FE;
-  }
 img {
  	   float: left;
 			}
