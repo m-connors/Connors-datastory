@@ -64,7 +64,7 @@ section#reading {
 /*COLLECTION SECTION*/
 section#collection {
   display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
+   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 @media screen and (min-width:1080px) {
       grid-template-columns: 55% 55%;
