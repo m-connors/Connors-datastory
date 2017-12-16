@@ -60,7 +60,7 @@ section#reading {
 }
 @media screen and (min-width:1080px) {
   section#intro {
-      grid-template-columns: 45% 55%;
+      grid-template-columns: 55% 55%;
     }
 
 /*COLLECTION SECTION*/
@@ -70,7 +70,7 @@ section#collection {
 }
 @media screen and (min-width:1080px) {
   section#intro {
-      grid-template-columns: 30% 50%;
+      grid-template-columns: 55% 55%;
     }
 
 grid-template-areas:   
