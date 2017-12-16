@@ -1,3 +1,6 @@
+@font-face{font-family:'Lato-Regular';src:url('../font/lato/Lato-Regular.ttf') format('truetype');font-weight:normal;font-style:normal}
+@font-face{font-family:'Lato-Light';src:url('../font/lato/Lato-Light.ttf') format('truetype');font-weight:normal;font-style:normal}
+@font-face{font-family:'Norwester';src:url('../font/norwester/webfonts/norwester.ttf') format('truetype');font-weight:normal;font-style:normal}
 h1 {
     text-align: center
     }
@@ -7,19 +10,6 @@ h5 {
 body {
   background-color: #BBDEFB;
 }
-h1,h2 {
-  font-family: 'CourierNew';
-  font-style: normal; 
-  }
-h5 {
-  font-family: 'CourierNew';
-  font-style: italic ;  
-  }
-p { 
-   font-family: 'CourierNew'; 
-   font-weight: normal; 
-   font-style: normal;
-   }
 article {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
