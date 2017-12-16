@@ -8,25 +8,36 @@ body {
   background-color: #BBDEFB;
 }
 header {
-grid-area: header;
-
- #grad {
-    background: linear-gradient(#BBDEFB,#E1F5FE);
-}
+grid-area: header
   border: 2px solid blue;
   padding: 15px;
   
   }
+  
+section#header div,
+section#reading div,
+section#collection div
+section#results div {
+  min-height: 150px;
+  margin-bottom: 15px;
+}
+section#reading div,
+section#collection div
+section#results div {
+background: #E1F5FE
+}
+section#header div {
+background: #grad {
+linear-gradient(#BBDEFB, #E1F5FE);
+}
+
 article {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 10px;
 }
 
-section {
-  background: #E1F5FE;
-  height: 150px;
-  margin-top: 15px;
+
 }
 container {
   font-size: 18px;
