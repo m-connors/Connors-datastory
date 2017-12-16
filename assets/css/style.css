@@ -17,9 +17,6 @@ section{
   height: 150px;
   margin-top: 15px;
 }
-section#collection {
-    grid-template-columns: 45% 55% 
-}
 container {
   font-size: 18px;
   width: inherit;
