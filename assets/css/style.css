@@ -1,4 +1,3 @@
-
 /*HEADER*/
 header	{
     text-align: center
@@ -6,7 +5,6 @@ header	{
 h4		{
 	text-align: center
 	}
- background: #E1F5FE
 	
 /*COLOR*/	
 body {
@@ -40,6 +38,7 @@ article {
 
 /*SECTION*/ 
 section{
+  background: #E1F5FE;
   height: 200px;
   margin-top: 15px;
 }
@@ -64,7 +63,6 @@ section#reading {
 
 /*COLLECTION SECTION*/
 section#collection {
-
   display: grid;
    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
 }
