@@ -14,11 +14,20 @@ body {
 
 /*TYPOGRAPHY*/
 body {
-  font-size: 12px;
+  font-size: 14px;
   font-family: "times";
 }
+
 h1, h2 {
 font-family: "courier" 
+}
+
+h1 {
+font-size: 3rem;
+}
+
+h2 {
+font-size: 2rem;
 }
 
 /*GRID*/
