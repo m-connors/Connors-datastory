@@ -1,22 +1,32 @@
-h1 {
+
+/*HEADER*/
+header	{
     text-align: center
     }
-h5 {
+h5		{
 	text-align: center
 	}
+	
+/*COLOR*/	
 body {
   background-color: #BBDEFB;
 }
+
+/*GRID*/
 article {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-gap: 10px;
 }
+
+/*SECTION*/ 
 section{
   background: #E1F5FE;
   height: 150px;
   margin-top: 15px;
 }
+
+
 container {
   font-size: 18px;
   width: inherit;
@@ -33,14 +43,9 @@ div#toc-list,div#toc-img {
   /*good for default large screens */
   height: 10em;
 }
+
 grid-template-areas:   
     "header header"
     "article sidebar"
     "footer footer";
-#grid-container {
-  display: grid;
-  grid-template-rows: 150px 1fr 150px;
-  grid-template-columns: 1fr 30%;
-  grid-column-gap: 10px;
-  grid-row-gap: 15px;
-}
+    
