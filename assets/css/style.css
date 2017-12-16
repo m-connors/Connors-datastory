@@ -11,7 +11,7 @@ header {
 grid-area: header
   border: 2px solid blue;
   padding: 15px;
-  
+  }
 
 article {
   display: grid;
