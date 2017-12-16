@@ -15,10 +15,7 @@ article {
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 10px;
 }
-section#header div,
-section#reading div,
-section#collection div,
-section#results div {
+section{
   background: #E1F5FE;
   height: 150px;
   margin-top: 15px;
