@@ -53,3 +53,18 @@ grid-template-areas:
   grid-column-gap: 10px;
   grid-row-gap: 15px;
 }
+}
+@media screen and (max-width:670px) {
+  header div:nth-child(even) {
+    display: none;
+  }
+  header div:first-child {
+    /* Note the 2 dots in the url();
+        this tells the computer to
+        go back 1 folder first, then
+        proceed to the resource.
+        This is necessary, since this
+        style.css file is in the
+        assets/css folder. */
+    background: url("../img/dataviz-600.png") bottom center no-repeat;
+  }
