@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="407.5202"
-     inkscape:cy="222.1793"
+     inkscape:cx="153.94877"
+     inkscape:cy="336.46501"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -95,7 +95,7 @@
        xml:space="preserve"
        id="flowRoot4178"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(32,10)"><flowRegion
+       transform="matrix(0.90850652,0,0,0.95385309,81.733209,89.378316)"><flowRegion
          id="flowRegion4180"><rect
            id="rect4182"
            width="680"
@@ -327,104 +327,105 @@
        r="10" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="545.54816"
-       y="51.352051"
+       style="font-style:normal;font-weight:normal;font-size:22.54001999px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="21.042931"
+       y="502.4787"
        id="text4473"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(1.0831264,0.92325329)"><tspan
          sodipodi:role="line"
          id="tspan4475"
-         x="545.54816"
-         y="51.352051">Legend</tspan></text>
+         x="21.042931"
+         y="502.4787">Legend</tspan></text>
     <circle
        style="opacity:1;fill:#ef2c48;fill-opacity:0.97647059;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4186-2-0-6"
-       cx="564.91956"
-       cy="100.74431"
+       cx="43.490982"
+       cy="497.88718"
        r="20" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.52447128px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="685.02722"
-       y="90.996437"
+       x="82.599785"
+       y="437.75879"
        id="text4492"
        sodipodi:linespacing="125%"
-       transform="scale(0.87503129,1.1428163)"><tspan
+       transform="scale(0.87503128,1.1428163)"><tspan
          sodipodi:role="line"
          id="tspan4494"
-         x="685.02722"
-         y="90.996437">Washington Post</tspan></text>
+         x="82.599785"
+         y="437.75879">Washington Post</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:17.742239px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="715.88037"
-       y="135.423"
+       x="280.4664"
+       y="424.2804"
        id="text4492-8"
        sodipodi:linespacing="125%"
-       transform="scale(0.84320411,1.1859525)"><tspan
+       transform="scale(0.8432041,1.1859525)"><tspan
          sodipodi:role="line"
          id="tspan4494-7"
-         x="715.88037"
-         y="135.423">POLITICO</tspan></text>
+         x="280.4664"
+         y="424.2804">POLITICO</tspan></text>
     <circle
        style="opacity:1;fill:#f5d52e;fill-opacity:0.97647059;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4228-2-1"
-       cx="566.16528"
-       cy="151.78561"
+       cx="210.451"
+       cy="496.64276"
        r="20" />
     <circle
        style="opacity:1;fill:#169526;fill-opacity:0.97647059;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4226-1"
-       cx="566.91003"
-       cy="202.22435"
+       cx="334.05289"
+       cy="497.08148"
        r="20" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.88245392px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="701.74976"
-       y="182.35086"
+       x="423.52966"
+       y="429.55396"
        id="text4492-8-4"
        sodipodi:linespacing="125%"
-       transform="scale(0.85749172,1.166192)"><tspan
+       transform="scale(0.85749173,1.166192)"><tspan
          sodipodi:role="line"
          id="tspan4494-7-7"
-         x="701.74976"
-         y="182.35086">New York Times</tspan></text>
+         x="423.52966"
+         y="429.55396">New York Times</tspan></text>
     <circle
        style="opacity:1;fill:#5e2cef;fill-opacity:0.97647059;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4186-2-4-3-4-2"
-       cx="566.16534"
-       cy="252.63194"
+       cx="494.73679"
+       cy="496.06052"
        r="20" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.88245392px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="704.8576"
-       y="223.40161"
+       x="601.56628"
+       y="428.95511"
        id="text4492-8-4-0"
        sodipodi:linespacing="125%"
        transform="scale(0.85749173,1.166192)"><tspan
          sodipodi:role="line"
          id="tspan4494-7-7-6"
-         x="704.8576"
-         y="223.40161">CNN</tspan></text>
+         x="601.56628"
+         y="428.95511">CNN</tspan></text>
     <circle
        style="opacity:1;fill:#2c95ef;fill-opacity:0.97647059;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4336-4-3"
        cx="566.96155"
-       cy="296.71454"
+       cy="493.00024"
        r="10" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.19916821px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="875.21716"
-       y="201.90704"
+       x="866.74658"
+       y="338.17731"
        id="text4492-8-4-0-0"
        sodipodi:linespacing="125%"
-       transform="scale(0.67460472,1.4823495)"><tspan
+       transform="scale(0.67460474,1.4823495)"><tspan
          sodipodi:role="line"
          id="tspan4494-7-7-6-1"
-         x="875.21716"
-         y="201.90704">Number of minutes spent reading</tspan></text>
+         x="866.74658"
+         y="338.17731">Number of minutes spent reading</tspan></text>
   </g>
 </svg>
