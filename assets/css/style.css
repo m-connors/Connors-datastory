@@ -57,13 +57,3 @@ grid-template-areas:
   header div:nth-child(even) {
     display: none;
   }
-  header div:first-child {
-    /* Note the 2 dots in the url();
-        this tells the computer to
-        go back 1 folder first, then
-        proceed to the resource.
-        This is necessary, since this
-        style.css file is in the
-        assets/css folder. */
-    background: url("../img/dataviz-600.png") bottom center no-repeat;
-  }
