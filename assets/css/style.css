@@ -12,6 +12,9 @@ grid-area: header
   border: 2px solid blue;
   padding: 15px;
   }
+img {
+ 	   float: left;
+			}
 article {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
