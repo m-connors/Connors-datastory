@@ -12,6 +12,12 @@ body {
   background-color: #BBDEFB;
 }
 
+/*TYPOGRAPHY*/
+body {
+  font-size: 12px;
+  font-family: "courier";
+}
+
 /*GRID*/
 article {
   display: grid;
