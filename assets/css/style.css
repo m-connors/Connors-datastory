@@ -1,6 +1,3 @@
-@font-face{font-family:'Lato-Regular';src:url('../font/lato/Lato-Regular.ttf') format('truetype');font-weight:normal;font-style:normal}
-@font-face{font-family:'Lato-Light';src:url('../font/lato/Lato-Light.ttf') format('truetype');font-weight:normal;font-style:normal}
-@font-face{font-family:'Norwester';src:url('../font/norwester/webfonts/norwester.ttf') format('truetype');font-weight:normal;font-style:normal}
 h1 {
     text-align: center
     }
@@ -12,7 +9,7 @@ body {
 }
 article {
   display: grid;
-  grid-template-columns: repeat(1, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-gap: 10px;
 }
 section{
@@ -50,4 +47,3 @@ grid-template-areas:
   grid-column-gap: 10px;
   grid-row-gap: 15px;
 }
-
