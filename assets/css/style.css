@@ -8,15 +8,15 @@ body {
   background-color: #BBDEFB;
 }
 h1,h2 {
-  font-family: 'RailwayRegular';
+  font-family: 'CourierNew';
   font-style: normal; 
   }
 h5 {
-  font-family: 'RailwayRegular';
+  font-family: 'CourierNew';
   font-style: italic ;  
   }
 p { 
-   font-family: 'AileronRegular'; 
+   font-family: 'CourierNew'; 
    font-weight: normal; 
    font-style: normal;
    }
