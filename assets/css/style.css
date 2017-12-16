@@ -1,5 +1,6 @@
 
 /*HEADER*/
+background: #E1F5FE
 header	{
     text-align: center
     }
@@ -39,7 +40,6 @@ article {
 
 /*SECTION*/ 
 section{
-  background: #E1F5FE;
   height: 200px;
   margin-top: 15px;
 }
@@ -54,6 +54,7 @@ container {
 }
 
 /*READING SECTION*/
+background: #FFF9C4
 section#reading {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -63,6 +64,7 @@ section#reading {
     }
 
 /*COLLECTION SECTION*/
+background: #EF9A9A
 section#collection {
   display: grid;
    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
@@ -70,6 +72,12 @@ section#collection {
 @media screen and (min-width:1080px) {
       grid-template-columns: 55% 55%;
     }
+
+/*RESULT SECTION*/
+background: #E1BEE7
+  display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
+}
 
 grid-template-areas:   
     "header header"
