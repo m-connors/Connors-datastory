@@ -1,12 +1,12 @@
 
 /*HEADER*/
-background: #E1F5FE
 header	{
     text-align: center
     }
 h4		{
 	text-align: center
 	}
+ background: #E1F5FE
 	
 /*COLOR*/	
 body {
@@ -54,7 +54,6 @@ container {
 }
 
 /*READING SECTION*/
-background: #FFF9C4
 section#reading {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -64,20 +63,14 @@ section#reading {
     }
 
 /*COLLECTION SECTION*/
-background: #EF9A9A
 section#collection {
+
   display: grid;
    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
 }
 @media screen and (min-width:1080px) {
       grid-template-columns: 55% 55%;
     }
-
-/*RESULT SECTION*/
-background: #E1BEE7
-  display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
-}
 
 grid-template-areas:   
     "header header"
