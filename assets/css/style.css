@@ -7,9 +7,19 @@ h5 {
 body {
   background-color: #BBDEFB;
 }
-img {
- 	   float: left;
-			}
+h1,h2 {
+  font-family: 'RailwayRegular';
+  font-style: normal; 
+  }
+h5 {
+  font-family: 'RailwayRegular';
+  font-style: italic ;  
+  }
+p { 
+   font-family: 'AileronRegular'; 
+   font-weight: normal; 
+   font-style: normal;
+   }
 article {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
