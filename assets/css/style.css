@@ -58,12 +58,21 @@ section#reading {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
-
 @media screen and (min-width:1080px) {
   section#intro {
       grid-template-columns: 45% 55%;
     }
-    
+
+/*COLLECTION SECTION*/
+section#collection {
+  display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
+}
+@media screen and (min-width:1080px) {
+  section#intro {
+      grid-template-columns: 30% 50%;
+    }
+
 grid-template-areas:   
     "header header"
     "article sidebar"
