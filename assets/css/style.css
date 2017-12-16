@@ -34,15 +34,7 @@ container {
   padding: 15px;
   margin: 15px;
 }
-div#toc-list,div#toc-img {
-  padding: 14px;
-  border: 2px
-}
-div#toc-list,div#toc-img {
-  /*computed based on font-size*/
-  /*good for default large screens */
-  height: 10em;
-}
+
 
 grid-template-areas:   
     "header header"
