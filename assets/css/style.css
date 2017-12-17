@@ -79,7 +79,7 @@ section#result {
 /*DATA SECTION*/ 
 section#result {
 	display: grid;
-	grid-template-columns: 45% 55% 
+	grid-template-columns: 20% 25% 
 
 }
 
