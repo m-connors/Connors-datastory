@@ -79,7 +79,8 @@ section#result {
 /*DATA SECTION*/ 
 section#result {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
+	grid-template-columns: 45% 55% 
+
 }
 
 
