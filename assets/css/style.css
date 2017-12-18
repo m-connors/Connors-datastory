@@ -1,91 +1,73 @@
-/*HEADER*/
-header	{
-    text-align: center
-    }
-h4		{
-	text-align: center
-	}
-	
-/*COLOR*/	
 body {
   background-color: #BBDEFB;
 }
 
 /*TYPOGRAPHY*/
+h1, h2, h4	{
+    text-align: center
+    }
 body {
   font-size: 14px;
   font-family: "times";
 }
-
 h1, h2 {
 font-family: "courier" 
 }
-
 h1 {
 font-size: 3rem;
 }
-
 h2 {
 font-size: 2rem;
 }
 
+
 /*GRID*/
-article {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-gap: 10px;
+section#first div,
+section#second div, {
+  min-height: 400px;
+  margin-bottom:6px;
 }
 
-/*SECTION*/ 
-section{
-  background: #E1F5FE;
-  height: 200px;
-  margin-top: 15px;
+/*SECTIONS*/
+section#first div {
+  background: #43A047;
+  color: black;
+  padding: 5px;
+  text-align: left;
 }
 
-
-container {
-  font-size: 14px;
-  width: inherit;
-  height: inherit;
-  padding: 15px;
-  margin: 15px;
+section#second div {
+  background: #673AB7;
+  color: black;
+  padding: 5px;
 }
 
-/*READING SECTION*/
-section#reading {
+/* GRID/LAYOUT STYLES */
+section#first,
+section#second {
  display: grid;
- grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+ grid-gap: 15px;
+
+ grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 }
 @media screen and (min-width:1080px) {
-      grid-template-columns: 55% 55%;
-    }
-
-/*COLLECTION SECTION*/
-section#collection {
-  display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-}
-@media screen and (min-width:1080px) {
-      grid-template-columns: 55% 55%;
-    }
-
-/*RESULT SECTION*/
-section#result {
-	display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr, 1fr));
+ section#first 
+ 
+   grid-template-columns: 50%, 1fr;
+   }
+   section#second {
+   
+   grid-template-columns: 1fr, 50%;
+   }
 }
 
-/*DATA SECTION*/ 
-section#result {
-	display: grid;
-	grid-template-columns: 20% 25% 
-
+@media screen and (max-width: 670px) {
+  section#second div.content-wrapper{
+    grid-row: 2;
+    grid-column: 1;
+  }
+  section#second div.media-wrapper{
+    grid-row: 1;
+    grid-column: 1;
+  }
 }
-
-
-grid-template-areas:   
-    "header header"
-    "article sidebar"
-    "footer footer";
-    
